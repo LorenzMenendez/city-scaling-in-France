@@ -14,7 +14,7 @@ I'm studying the relationship between total population of a city `Population15` 
 ## Major Steps
 - [x] Importing and wrangling data for population and urban indicators: Completed using ETL workflows from various spreadsheets, CSVs and Shapefiles to PostGIS with FME
 - [x] Exploratory data analysis in GeoDa to view the relationship between urban variables
-- [ ] Formal data analysis with Server-Side Calculations: Find βs, R^2, 95% Confidence Interval and interpret results
+- [x] Formal data analysis with Server-Side Calculations: Find βs, R^2, 95% Confidence Interval and interpret results
 - [ ] Final report with visualizations of our data using a spatial viewer (QGIS), R, or pgAdmin
 
 ## Data Sources
