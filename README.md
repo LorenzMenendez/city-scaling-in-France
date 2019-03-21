@@ -17,6 +17,7 @@ I'm studying the relationship between total population of a city `Population15` 
 - [x] Formal data analysis with Server-Side Calculations: Find βs, R^2, 95% Confidence Interval and interpret results
 - [x] Create interactive visualizations in R, then export as HTML for final report. See the R code [here](https://github.com/LorenzMenendez/city-scaling-in-France/blob/master/Data%20Visualization%20from%20PostGIS%20Database%20Code)
 - [x] Final report with visualizations of our data
+- [ ] Create a webapge that houses all of this information
 
 ## Data Sources
 * Institut national de la statistique et des études économiques (INSEE)
