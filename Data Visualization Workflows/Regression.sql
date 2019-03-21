@@ -1,4 +1,5 @@
-
+-- I incorporated this SQL code into an FME workflow that 
+-- 1) calculated the scaling exponent β, 2) Calcualted the difference between the anticipated value and actual value of an urban indicator
 
 --For use in FME Workflow
 SELECT 

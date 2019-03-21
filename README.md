@@ -1,5 +1,5 @@
 # Scaling Relations in French Cities
-An analysis of the relationship between population and city attributes
+An analysis of the relationship between a cities population and many urban indicators across time and space.
 
 ## Overview
 This is the final project for my GIS II class, centered around the usage of a PostGIS database to model a city. I'm implementing the techniques used by Luís Bettencourt (University of Chicago) in his research of city scaling relations to urban indicators for French cities. See my [project proposal](https://github.com/LorenzMenendez/city-scaling-in-France/blob/master/Menendez%20Project%20Proposal.pdf "project proposal") for more details.
@@ -18,6 +18,11 @@ I'm studying the relationship between total population of a city `Population15` 
 - [x] Create interactive visualizations in R, then export as HTML for final report. See the R code [here](https://github.com/LorenzMenendez/city-scaling-in-France/blob/master/Data%20Visualization%20from%20PostGIS%20Database%20Code)
 - [x] Final report with visualizations of our data
 - [ ] Create a webapge that houses all of this information
+
+## Technologies Used
+* FME Workbench (Enterprise-level data workflow manager)
+* tmap in R
+* GeoDa
 
 ## Data Sources
 * Institut national de la statistique et des études économiques (INSEE)
