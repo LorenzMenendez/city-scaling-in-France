@@ -16,7 +16,7 @@ I'm studying the relationship between total population of a city `Population15` 
 - [x] Exploratory data analysis in GeoDa to view the relationship between urban variables
 - [x] Formal data analysis with Server-Side Calculations: Find βs, R^2, 95% Confidence Interval and interpret results
 - [x] Create interactive visualizations in R, then export as HTML for final report. See the R code [here](https://github.com/LorenzMenendez/city-scaling-in-France/blob/master/Data%20Visualization%20from%20PostGIS%20Database%20Code)
-- [ ] Final report with visualizations of our data
+- [x] Final report with visualizations of our data
 
 ## Data Sources
 * Institut national de la statistique et des études économiques (INSEE)
