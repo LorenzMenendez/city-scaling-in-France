@@ -16,7 +16,7 @@ con <- dbConnect(drv,
                  host = "localhost")
 
 #Getting the Data for Urban Indicators from PostGIS
-urbanareas.sp <- get_postgis_query(con, "SELECT * FROM final.indicateurs_diff", geom_name = "geom")
+urbanareas.sp <- get_postgis_query(con, "SELECT * FROM final.indicateurs_au", geom_name = "geom")
 
 # Set tmap to do interactive maps 
 tmap_mode("view")
