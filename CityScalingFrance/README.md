@@ -9,13 +9,14 @@ The goal is to present the fingings on French city scaling in an interactive for
 * Rendered a tmap map based on the drop-down selection. 
 * Rendered a plot showing city datapoints as a function of population as well as the linear regeression fit
 * Displayed the output of summar statistics for the linear fit
+* Made the drop-down menu selection also affect the plot and text output of linear fit
+* Made the map prettier by changing the aesthetics
 
 ## Further Extensions
-* Make the drop-down menu selection also affect the plot and text output of linear fit
 * Change the formatting of the output text so that it's real
 * Optimize tmap rendering by simplifying the map geometry. Right now it just takes too long! 
-* Make the map prettier by changing the aesthetics
 
 ## Citations
 * Angela Li' (UChicago) — [R Workshop](https://spatialanalysis.github.io/workshop-notes/)
 * Stackoverflow/Stackexchange
+* Shiny CSS Loaders Package — [GitHub](https://github.com/andrewsali/shinycssloaders)
